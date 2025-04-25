@@ -16,7 +16,7 @@ This project focuses on analyzing global product sales data using interactive an
 
 ## 📊 Key Features & Visuals
 
-### ✅ Main Dashboard (Page 1)
+### ✅ Main Dashboard
 - **KPI Cards** showing:
   - Total Profit (16.89M)
   - Total Sales (118.73M)
@@ -31,7 +31,7 @@ This project focuses on analyzing global product sales data using interactive an
 - **Donut Chart**: Units Sold by Product
 - **Map Visualization**: Sales by Country
 
-### ✅ Additional Insights (Page 2)
+### ✅ Additional Insights
 - **KPI Cards**:
   - Sales in 2013 and 2014
 - **Pie Chart**: Units Sold by Country
